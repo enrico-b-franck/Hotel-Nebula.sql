@@ -1,4 +1,4 @@
-# Hotel-N-bula-
+# Hotel-Nébula
 
 
 Projeto de modelagem e implementação de banco de dados para gerenciamento de um sistema hoteleiro.
