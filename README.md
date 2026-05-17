@@ -43,5 +43,4 @@ O banco de dados contempla as seguintes entidades:
 - Funcionários
 - Serviços Extras
 - Avaliações
-
 ---
